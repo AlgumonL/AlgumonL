@@ -1,8 +1,6 @@
 # Olá, eu sou o Lucas Raphael! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Estudante+de+Programação+%26+Dev;Aprendendo+um+commit+de+cada+vez;Rio+Claro+-+SP+🇧🇷" alt="Typing SVG" />
-</div>
+
 
 ---
 
@@ -41,10 +39,6 @@ Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros pass
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlgumonL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgumonL&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 ---
 
