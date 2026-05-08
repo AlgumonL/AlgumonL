@@ -6,18 +6,18 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros passos no mundo do desenvolvimento. Estou construindo minha base em **lógica de programação**, **algoritmos** e **desenvolvimento web**.
 
-- 📍 Rio Claro, São Paulo - Brasil
-- 📚 Atualmente aprendendo: **HTML, Python, Lógica de Programação**
-- 🌱 Em evolução constante, um projeto de cada vez
-- 🎯 Objetivo: me tornar um desenvolvedor completo
+-  Rio Claro, São Paulo - Brasil
+-  Atualmente aprendendo: **HTML, Python, Lógica de Programação**
+-  Em evolução constante, um projeto de cada vez
+-  Objetivo: me tornar um desenvolvedor completo
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros pass
 
 ---
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
@@ -39,7 +39,7 @@ Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros pass
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlgumonL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -48,7 +48,7 @@ Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros pass
 
 ---
 
-## 🚀 Roadmap de Aprendizado
+##  Roadmap de Aprendizado
 
 - [x] Git & GitHub
 - [x] HTML5
@@ -60,7 +60,7 @@ Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros pass
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
 <div align="center">
 
