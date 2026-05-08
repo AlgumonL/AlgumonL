@@ -1,90 +1,76 @@
+# Olá, eu sou o Lucas Raphael! 👋
 
-```
-⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢠⣿⣿⣿⣿⣿⡿⠿⠿⢿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣾⣿⣿⣿⣿⡟⠀⣠⣴⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢸⣿⣿⣿⣿⣿⠀⣾⣿⣿⣿⡿⠟⠛⠻⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢸⣿⣿⣿⣿⣿⠀⣿⣿⡟⠁⠀⠀⠀⠀⠻⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢿⣿⣿⣿⣿⡄⠹⣿⣧⡀⠀⠀⠀⣀⣼⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠘⣿⣿⣿⣿⣿⣦⠙⠿⣿⣿⣿⣿⠿⠋⣴⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠈⢿⣿⣿⣿⣿⣿⣶⣤⣤⣤⣤⣶⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Estudante+de+Programação+%26+Dev;Aprendendo+um+commit+de+cada+vez;Rio+Claro+-+SP+🇧🇷" alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros passos no mundo do desenvolvimento. Estou construindo minha base em **lógica de programação**, **algoritmos** e **desenvolvimento web**.
+
+- 📍 Rio Claro, São Paulo - Brasil
+- 📚 Atualmente aprendendo: **HTML, Python, Lógica de Programação**
+- 🌱 Em evolução constante, um projeto de cada vez
+- 🎯 Objetivo: me tornar um desenvolvedor completo
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-# ◈ Lucas Raphael ◈
-### `[ Algumon ]`
-
-*building something from nothing, one commit at a time.*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-```
-> whoami
-  lucas raphael — dev em formação, explorando o abismo do código
-  
-> location
-  brasil 🇧🇷
+## 📂 Projetos em Destaque
 
-> status
-  aprendendo | quebrando | consertando | repetindo
-```
+| Projeto | Descrição | Tecnologia |
+|---------|-----------|------------|
+| [Algoritimo](https://github.com/AlgumonL/Algoritimo) | Exercícios e listas de lógica de programação e desenvolvimento web | HTML |
+| [Grafos-Isomorfos](https://github.com/AlgumonL/Grafos-Isomorfos) | Estudo sobre grafos isomorfos | Python |
 
 ---
 
-## ▸ stack
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572b6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3572A5)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![Spring](https://img.shields.io/badge/Spring-0d0d0d?style=for-the-badge&logo=spring&logoColor=6db33f)
-![MySQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479a1)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlgumonL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlgumonL&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
 
-## ▸ stats
+## 🚀 Roadmap de Aprendizado
 
-<div align="center">
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Algumon&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algumon&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c9d1d9&text_color=8b949e)
-
-</div>
+- [x] Git & GitHub
+- [x] HTML5
+- [x] Lógica de Programação
+- [x] Python (fundamentos)
+- [ ] CSS3 & JavaScript
+- [ ] Python Intermediário
+- [ ] Banco de Dados
+- [ ] Framework Web (Django / React)
 
 ---
 
-## ▸ contato
+## 📫 Como me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:seu@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Algumon)
+[![GitHub](https://img.shields.io/badge/GitHub-AlgumonL-181717?style=for-the-badge&logo=github)](https://github.com/AlgumonL)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-// a jornada > o destino
-```
-
+  <i>"Todo expert já foi um iniciante. Cada linha de código é um passo a mais na jornada." 🚀</i>
 </div>
