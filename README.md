@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas Raphael! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Estudante+de+Programação+%26+Dev;Aprendendo+um+commit+de+cada+vez;Rio+Claro+-+SP+🇧🇷" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Estudante+de+Programação+%26+Dev;Aprendendo+um+commit+de+cada+vez;Rio+Claro+-+SP" alt="Typing SVG" />
 </div>
 
 ---
