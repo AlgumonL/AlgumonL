@@ -57,7 +57,6 @@ Sou um estudante apaixonado por tecnologia, atualmente dando meus primeiros pass
 - [ ] CSS3 & JavaScript
 - [ ] Python Intermediário
 - [ ] Banco de Dados
-- [ ] Framework Web (Django / React)
 
 ---
 
