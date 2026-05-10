@@ -1,3 +1,12 @@
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="120">
+
+<pre style="font-size:3px; line-height:0.9; font-family:monospace; transform: scale(0.1); transform-origin: top left;">
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣛⣉⣭⣥⣤⣦⣬⣭⣭⣉⣛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⣡⣴⣿⣿⣿⡿⢛⣻⣿⣉⠻⣿⣿⣿⣿⣦⣌⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⢋⣴⣿⣿⠟⣻⣿⢏⣴⣿⣿⣿⣿⣦⣘⣿⣿⣿⣿⣿⣷⡌⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -26,6 +35,11 @@
 ⣿⣧⡀⠻⠿⣿⣿⣆⠀⢻⣿⣿⣿⣿⣦⠙⠀⢀⣴⣶⣆⡀⠠⠘⢠⣿⣿⣿⣿⡧⠀⡀⡤⠴⠛⢋⣉⣤⣶⣶⣶⣶⣾
 ⣿⣿⣿⣷⣶⣶⣦⣤⣤⣤⣍⡛⠿⣿⡟⠀⣐⣛⣛⣛⣛⣛⣀⡀⠘⢿⣿⠟⠋⠀⣤⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣍⣉⣀⣀⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣤⣄⣀⣊⣁⣀⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ </pre>
+
+</td>
+<td valign="top" align="left" style="padding-left: 15px;">
+
 
 <div align="center">
 
