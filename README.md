@@ -34,7 +34,7 @@
         </pre>
       </td>
       <td valign="top" align="left" style="padding-left: 15px;">
-Lucas Raphael
+github Lucas Raphael
         
 [![GitHub](https://img.shields.io/badge/GitHub-AlgumonL-181717?style=for-the-badge&logo=github)](https://github.com/AlgumonL)
 
