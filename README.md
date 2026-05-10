@@ -1,11 +1,9 @@
-
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="120">
-<pre style="font-size:3px; line-height:0.9; font-family:monospace; transform: scale(0.1); transform-origin: top left;">
-
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣛⣉⣭⣥⣤⣦⣬⣭⣭⣉⣛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top" style="width: 120px;">
+        <pre style="font-size:3px; line-height:0.9; font-family:monospace;">
+          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣛⣉⣭⣥⣤⣦⣬⣭⣭⣉⣛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⣡⣴⣿⣿⣿⡿⢛⣻⣿⣉⠻⣿⣿⣿⣿⣦⣌⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⢋⣴⣿⣿⠟⣻⣿⢏⣴⣿⣿⣿⣿⣦⣘⣿⣿⣿⣿⣿⣷⡌⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⡿⢡⣾⣿⡿⣡⣾⣿⢃⣾⣿⣿⣿⣿⣧⢹⣿⣿⣿⣿⣿⡌⢿⣿⡆⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -33,22 +31,18 @@
 ⣿⣧⡀⠻⠿⣿⣿⣆⠀⢻⣿⣿⣿⣿⣦⠙⠀⢀⣴⣶⣆⡀⠠⠘⢠⣿⣿⣿⣿⡧⠀⡀⡤⠴⠛⢋⣉⣤⣶⣶⣶⣶⣾
 ⣿⣿⣿⣷⣶⣶⣦⣤⣤⣤⣍⡛⠿⣿⡟⠀⣐⣛⣛⣛⣛⣛⣀⡀⠘⢿⣿⠟⠋⠀⣤⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣍⣉⣀⣀⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣤⣄⣀⣊⣁⣀⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-</pre>
-
-</td>
-<td valign="top" align="left" style="padding-left: 15px;">
-
-##Lucas Raplhael
-
-[![GitHub](https://img.shields.io/badge/GitHub-AlgumonL-181717?style=for-the-badge&logo=github)](https://github.com/AlgumonL)
+        </pre>
+      </td>
+      <td valign="top" align="left" style="padding-left: 15px;">
+        ## Lucas Raphael
+        [![GitHub](https://img.shields.io/badge/GitHub-AlgumonL-181717?style=for-the-badge&logo=github)](https://github.com/AlgumonL)
 
 
 
 ---
 
 <i>"Todo expert já foi um iniciante. Cada linha de código é um passo a mais na jornada." 🚀</i>
-</td>
-</tr>
-</table>
-</div>
-
+      </td>
+    </tr>   
+  </table>
+</div>  
